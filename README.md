@@ -12,5 +12,5 @@ $ ln -s ../fish-openv-completions/openv.fish completions/
 ## Install using Fisher
 
 ```shell
-fisher add mrtc0/fish-openv-completions
+$ fisher install mrtc0/fish-openv-completions
 ```
